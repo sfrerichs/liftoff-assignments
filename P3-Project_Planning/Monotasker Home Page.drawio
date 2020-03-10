@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-10T02:33:38.819Z" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="-FoaeJnbSHRuTpRaLDyi" version="12.8.2" type="github">
+<mxfile host="www.draw.io" modified="2020-03-10T02:36:11.417Z" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="fWiBLvqaR8RBXRkN22gG" version="12.8.2" type="github">
   <diagram id="0uNQYvPThGTI73Z5MVmt" name="Page-1">
     <mxGraphModel dx="868" dy="457" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -66,6 +66,9 @@
         </mxCell>
         <mxCell id="9f343ilHBIjibPNwgBLL-1" value="Image" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.image;align=center;rSize=5;strokeColor=#f6f6f6;fillColor=#f6f6f6;fontColor=#999999;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="150" y="150" width="240" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="9f343ilHBIjibPNwgBLL-2" value="&lt;h1&gt;About One Thing App&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=#F5F5F5;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="150" y="420" width="525" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
