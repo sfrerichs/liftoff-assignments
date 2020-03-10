@@ -9,6 +9,9 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+* P3-Project_Planning/Monotasker Home Page.jpg
+* P3-Project_Planning/Monotasker One Thing Page.jpg
+* P3-Project_Planning/Monotasker Things List Page.jpg
 
 ### Project Tracker
 
