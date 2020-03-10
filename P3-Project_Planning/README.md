@@ -9,9 +9,9 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
-* P3-Project_Planning/Monotasker Home Page.jpg
-* P3-Project_Planning/Monotasker One Thing Page.jpg
-* P3-Project_Planning/Monotasker Things List Page.jpg
+* [Home Page] (https://github.com/thunderChild6/liftoff-assignments/blob/master/P3-Project_Planning/Monotasker%20Home%20Page.jpg)
+* [One Thing Page] (https://github.com/thunderChild6/liftoff-assignments/blob/master/P3-Project_Planning/Monotasker%20One%20Thing%20Page.jpg)
+* [Things List Page] (https://github.com/thunderChild6/liftoff-assignments/blob/master/P3-Project_Planning/Monotasker%20Things%20List%20Page.jpg)
 
 ### Project Tracker
 
