@@ -1,1 +1,56 @@
-<mxfile host="www.draw.io" modified="2020-03-10T02:38:05.845Z" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="5CNQ83HAIU1w73V0pSGJ" version="12.8.2" type="github"><diagram id="0uNQYvPThGTI73Z5MVmt" name="Page-1">7Vpbj9o4GP01PDLKHXicwLSdiu6iTqVKfTPEJO4kcdYxA8yvX9vYISFOGmjCrrQbpDb+fPc5382ZkT1PDh8JyKIvOIDxyDKCw8hejCxr6k3Zv1xwPAkcd3IShAQFJ5F5FrygdyiFrpTuUADzSkOKcUxRVhVucJrCDa3IACF4X222xXF11gyEsCZ42YC4Lv2OAhrJbbnGWf4JojBSM5uGrEmAaiwFeQQCvC+J7KeRPScY09NbcpjDmJ+dOpdTvw8NtcXCCExplw7Ltf16XPz88f0zwu/Hd/zlgD+P5ShvIN7JDc9xSgnmHVcg5ViKtdOjOpCIJjF7M0e2X+zIYIUA5BEMZIHVZLx9cgg5Kx7WbJc5Za8PhAiU/C2K4zmOMRGj2lvxMDmIUZgy2YbtCrJKn0hOuHxYtrJXWOpmiIfVvEFCEUPtUXanOOPtM7BBafiNFxYWb7dlu5MDmo4qy83xLe0jROEL68YFe7ZgJqsftDo1Nik8lETy4D9CnEBKjqzJQbFekuCo2C3L+zOnLEfKohKfCvYAyeOwGPsMNXuRaF+BvFVD/ikBaDC8W2GciaeFFTrYSu0C8ZTYE8MtPeO/FKWFYzQATGDOxlbqbWohb9WeX/OghLM50+BsSxmBMaDorWp8dNjLKVYYsRUWPLOrNPMuyIO32xzSGnWKdd7OJrvGpr6JxCH1d5Ti9GY2BfxX4F2Y7SsAt24B3O4D79/SdWdwdITp0GBRnPkFFgVGpx6F7j3Y3cGwO4Mha40Ht6IeRbmsnV4dLNPqRTnH08rsY+9eyunW4F+BPN9jEtzbu3fU2/+t/S3Wvgg9h2eU998w9+4tiPdi7i8AHx7RyeCIZsrmtGFYdQdXOAOvM1S/6wy8QZzB9F6qO60B/RUmMFmzZIslrbBv1DcR3Lyu8aGkxbaOAZ54WlxHDNYwXuEcUcRtwoKcIGl3Au6FNzGGtvaOhjBOL4SZ2FVj79yNMbMaY5Y4ZILndKjwodnepziFdZK4U3/mTuqRQmv++Ku0/w5xwrHChX8mahi7d4saTGNwJ6MYpGVNmVYXDLLE089lj6dPwkvwTiwNvM5QNz1m/ZLPJyDtP/hvOfrycStRVVcbo/9m3bwlpCs4eJVdn7bgdZ8UXuWgJRAXmJX/ZGdpGd8i5vP4tCJY5ALUvyvX53bFFawe9waD/G8A1Zq6PaCqN7LT+xlVTXZPUAIk5wawra1X9BfssBdTf77QBXxFTRNFZCT3VdGhKZ/vnyPKjpvVDGFWd9OG9sp+KBPQIetW6FGCQBpyqR8gjtspaM7xjq9dr6sZZLyBAlIl6nq23RPlcm177qU5WrcX3RxbFxGQpabvVVtnW9uxUfzJf/6J1qs/9qG/XGq+tz0n/Atkz6qKxKDXfk3bevynycEKeYPLrmbtVmdFvTq0Mm//juY206SrVmoRrfvlkeXF3E5GbC9eyN8e10zvas76MctU0zVRTZWEreXcXwkzJVhiAhO+sizf8f8DAQpjEBIBQMLJy7bDv4rnTPkh3fFaEKAM5Whzmh7GSLbKGaP4GFyIdnmCeZHCJBNjonSDAhTshAqJbbBUnM3PW1M1Ny8xzqU89mCk+2sHHko7yc4bueA5w10cVYnuHcNH6R4Ul8tfesdWk6/AjGrbWGhThIIAistFvEuDQqfENYMPNq+hkJfY/sHlv7oWFAHQAPx2rDq/XUsTttySPbDi+a8PTgbu/Ccc9tPf</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-03-10T02:45:51.177Z" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="8YYWUFs76TkLNhZFM_1r" version="12.8.2" type="github">
+  <diagram id="0uNQYvPThGTI73Z5MVmt" name="Page-1">
+    <mxGraphModel dx="868" dy="457" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Lb3kyDjZWJiozyzoMxoJ-10" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;strokeColor=none;rSize=5;fillColor=#222222;" parent="1" vertex="1">
+          <mxGeometry x="60" y="60" width="720" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lb3kyDjZWJiozyzoMxoJ-11" value="Brand" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;fontSize=14;whiteSpace=wrap;resizeHeight=1;" parent="Lb3kyDjZWJiozyzoMxoJ-10" vertex="1">
+          <mxGeometry width="80" height="40" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lb3kyDjZWJiozyzoMxoJ-12" value="Do One Thing at a Time" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fillColor=#000000;strokeColor=none;fontColor=#ffffff;whiteSpace=wrap;resizeHeight=1;" parent="Lb3kyDjZWJiozyzoMxoJ-10" vertex="1">
+          <mxGeometry width="285" height="40" relative="1" as="geometry">
+            <mxPoint x="80" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lb3kyDjZWJiozyzoMxoJ-15" value="Primary" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;align=center;rSize=5;fillColor=#3D8BCD;strokeColor=#3D8BCD;fontColor=#ffffff;spacingRight=10;whiteSpace=wrap;" parent="Lb3kyDjZWJiozyzoMxoJ-10" vertex="1">
+          <mxGeometry x="615" y="9" width="100" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="Lb3kyDjZWJiozyzoMxoJ-16" value="" style="shape=triangle;direction=south;strokeColor=none;perimeter=none;" parent="Lb3kyDjZWJiozyzoMxoJ-15" vertex="1">
+          <mxGeometry x="1" y="0.5" width="10" height="5" relative="1" as="geometry">
+            <mxPoint x="-20" y="-2.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HpAahjjZEuDhEUN_cjz3-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="480" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="HpAahjjZEuDhEUN_cjz3-6" value="&lt;font style=&quot;font-size: 37px&quot;&gt;One Thing to Work on Goes Here&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="150" width="420" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="HpAahjjZEuDhEUN_cjz3-7" value="Mark Item Complete" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#EFAC43;align=center;strokeColor=#EFAC43;fontColor=#ffffff;fontSize=16;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="615" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HpAahjjZEuDhEUN_cjz3-8" value="Skip to next Item" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#3D8BCD;align=center;strokeColor=#3D8BCD;fontColor=#ffffff;fontSize=16;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="615" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HpAahjjZEuDhEUN_cjz3-10" value="Complete Item" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#EFAC43;align=center;strokeColor=#EFAC43;fontColor=#ffffff;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="150" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HpAahjjZEuDhEUN_cjz3-11" value="Incomplete Item" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#3D8BCD;align=center;strokeColor=#3D8BCD;fontColor=#ffffff;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="240" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HpAahjjZEuDhEUN_cjz3-12" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#3D8BCD;align=center;strokeColor=#3D8BCD;fontColor=#ffffff;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="330" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HpAahjjZEuDhEUN_cjz3-13" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#3D8BCD;align=center;strokeColor=#3D8BCD;fontColor=#ffffff;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="425" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HpAahjjZEuDhEUN_cjz3-14" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#3D8BCD;align=center;strokeColor=#3D8BCD;fontColor=#ffffff;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="510" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
