@@ -21,4 +21,4 @@ https://trello.com/b/P5GgwAFk/monotasker
 ### Project Repo Link
 
 Include a link to your project on GitHub.
-https://github.com/thunderChild6/monotasker1
+https://github.com/sfrerichs/monotasker1
