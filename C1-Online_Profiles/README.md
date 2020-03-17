@@ -7,7 +7,7 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-https://github.com/sfrerichs/monotasker1
+https://github.com/sfrerichs/
  
 ### LinkedIn
 https://www.linkedin.com/in/sarah-frerichs/
